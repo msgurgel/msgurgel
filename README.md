@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my old Github profile here: [msgurgel-zz](https://github.com/msgurgel-zz). I locked that account because I lost my 2FA recovery codes 😭 
+## LEARN **FROM MY MISTAKES, TAKE CARE OF YOUR RECOVERY CODES**
 <!--
 **msgurgel/msgurgel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
